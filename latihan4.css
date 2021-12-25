@@ -1,0 +1,13 @@
+/* background */
+/* weebsite rekomendasi nyarik backgroud : subtlepatterns.com */
+
+body{   background-color:lightblue;
+        background-image: url(bg2.png);
+        background-repeat: no-repeat;
+        background-position: bottom left;
+        
+}
+
+/* shorthand = background : color url() position repeat; */
+
+title{  background: blue url(bg2.png) left no-repeat;}

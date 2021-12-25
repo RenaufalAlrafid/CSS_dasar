@@ -1,0 +1,19 @@
+h1{font-family: Arial, Helvetica, sans-serif;
+font-size: 50px ;
+font-weight: normal;
+font-variant: small-caps;
+font-style: italic;}
+
+p{font-family: Georgia, 
+'Times New Roman', Times, serif;
+line-height: 50px;
+}
+
+/* bisa dsingkat dengan urutan yang benar */
+
+/* font : font-style (optional) , font-variant (optional), font-weight (optional), font-size(waji)/line-height(optional) , font-family(wajib)*/
+
+/* contoh :
+
+body { font: italic normal bold 16px/18px arial,sans-serif;}*/
+

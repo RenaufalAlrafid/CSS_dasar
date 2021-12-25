@@ -1,0 +1,16 @@
+/*  text styling */
+
+h1{ font-size: 50px ;
+    color: skyblue;
+    text-decoration: line-through linen;
+    text-transform: capitalize;
+}
+
+p{  text-align: left;
+    text-indent: 20px;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+}
+
+a{  text-decoration: none;}
